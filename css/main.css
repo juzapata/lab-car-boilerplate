@@ -1,1 +1,71 @@
-/* Los estilos de tu proyecto */
+#taxi-img {
+  background-image: url("../assets/images/taxi.jpg");
+  height: 50vw;
+  background-size: 100%;
+  background-position-y: 93%;
+  background-repeat: no-repeat;
+}
+
+.nav-height, nav {
+  height: 20vh;	
+}
+
+.column-register {
+  display: flex;
+  flex-direction: column;
+}
+.font-type {
+  font-weight: 700;
+}
+.height-400px {
+  height: 400px;	
+}
+
+.yellow-container {
+   background-color: #F7B617;
+}
+
+.margin-top-register {
+  margin-top: 35px;	
+}
+
+.viaje {
+  font-size: 25px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 242px;
+}
+
+.register-button {
+  margin-bottom: 35px;
+  width: 117px;  
+}
+.div-o-bien {
+  display: flex;
+  justify-content: space-around;
+}
+
+.class-of-hr {
+	background-color: white;
+	width: 140px;
+	height: 1px;
+}
+
+.conversion-button {
+    width: 274px;
+    font-size: 19px;
+    font-weight: 500;	
+}
+
+.driver-image {
+  background-image: url("../assets/images/conduce.jpg");
+  height: 34vw;
+  background-size: 100%;
+  background-position-y: 53%;
+  background-repeat: no-repeat;
+}
+
+.black-container {
+  background-color: #2B2B2B;
+}
